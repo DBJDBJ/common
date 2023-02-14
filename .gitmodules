@@ -1,0 +1,21 @@
+[submodule "dbj_cpp"]
+	path = dbj_cpp
+	url = https://github.com/dbj-data/dbj_cpp.git
+[submodule "ubut"]
+	path = ubut
+	url = https://github.com/dbj-data/ubut.git
+[submodule "dbj_capi"]
+	path = dbj_capi
+	url = https://github.com/dbj-data/dbj_capi.git
+[submodule "dbj-win"]
+	path = dbj-win
+	url = https://github.com/dbj-data/dbj-win.git
+[submodule "dbj-inih"]
+	path = dbj-inih
+	url = https://github.com/dbj-data/inih.git
+[submodule "dbj-dll"]
+	path = dbj-dll
+	url = https://github.com/dbj-data/dbj-dll.git
+[submodule "simplelog"]
+	path = simplelog
+	url = https://github.com/dbj-data/simplelog.git
